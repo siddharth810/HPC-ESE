@@ -1,1 +1,1 @@
-High Preformance Computing Lab Final Exam
+High Performance Computing Lab Final Exam
